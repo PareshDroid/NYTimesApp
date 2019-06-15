@@ -1,5 +1,5 @@
 # NYTimesApp
-Example of MVVM project using LiveData, View Model, RxJava
+
 
 
 This project is a simple example of MVVM pattern using ViewModel, Livedata, Room, Retrofit, RxJava and Picasso. 
